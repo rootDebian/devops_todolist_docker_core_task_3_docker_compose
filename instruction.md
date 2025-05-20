@@ -13,11 +13,11 @@ docker-compose up --build
 ### 3. Проверка работы
 После успешного запуска:
 
-Приложение будет доступно по адресу: http://localhost:8000
+Приложение будет доступно по адресу: http://localhost:8080
 
-API будет доступно по адресу: http://localhost:8000/api/
+API будет доступно по адресу: http://localhost:8080/api/
 
-Админка Django: http://localhost:8000/admin/
+Админка Django: http://localhost:8080/admin/
 
 Работа с контейнерами
 Остановка контейнеров
